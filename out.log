@@ -1,0 +1,10 @@
+Free Pascal Compiler version 3.0.2 [2017/02/13] for i386
+Copyright (c) 1993-2017 by Florian Klaempfl and others
+Target OS: Win32 for i386
+Compiling .\src\.\GameMain.pas
+GameMain.pas(356,2) Note: Local variable "bmpOriginal" is assigned but never used
+GameMain.pas(451,2) Note: Local variable "row" is assigned but never used
+GameMain.pas(919,2) Note: Local variable "members" not used
+Linking .\bin\Debug\custom.exe
+1167 lines compiled, 0.3 sec, 223632 bytes code, 6516 bytes data
+3 note(s) issued
