@@ -1,6 +1,6 @@
 # K-Means Algorithm
-1. How to compile?
-  Using MINGW (a compiler), change the directory to the project using cd command, then type in ./build.sh
-2. How to run?
-  After successfully compiled, type ./run.sh
+
+Check out at 
+1. Visualize and mathematical analysis [My Blog Post](https://dunglai.github.io/2017/06/01/k-means/)
+2. Application on image compression (https://dunglai.github.io/2017/06/10/image-compression/)
   
