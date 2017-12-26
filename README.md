@@ -1,5 +1,7 @@
 # K-Means Algorithm
-
+###
+Language: Pascal
+Compiler: Free Pascal Compiler
 ### Demo
 ![Visualization Tool](https://github.com/DungLai/Image-Compression-Segmentation/blob/master/demo_visualization.gif)
 ![Image Compression Tool](https://github.com/DungLai/Image-Compression-Segmentation/blob/master/demo_compresison.gif)
